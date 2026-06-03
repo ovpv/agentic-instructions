@@ -1,3 +1,6 @@
 [submodule "openai-skills"]
 	path = .ai/openai-skills
 	url = https://github.com/openai/skills.git
+[submodule ".ai/codex-skills"]
+	path = .ai/codex-skills
+	url = https://github.com/am-will/codex-skills.git
