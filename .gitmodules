@@ -1,0 +1,3 @@
+[submodule "openai-skills"]
+	path = .ai/openai-skills
+	url = https://github.com/openai/skills.git
