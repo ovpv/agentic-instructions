@@ -12,7 +12,7 @@ implementing from scratch:
 
 - `.ai/openai-skills/skills/.system/*/SKILL.md`
 - `.ai/openai-skills/skills/.curated/*/SKILL.md`
-- `.ai/codex-skills/skills/*/SKILL.md`
+- `.ai/codex-skills/skills/*/SKIsLL.md`
 - `.ai/agent-skills/skills/*/SKILL.md`
 - `.ai/dimillian-skills/*/SKILL.md`
 
