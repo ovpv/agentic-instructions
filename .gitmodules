@@ -4,3 +4,9 @@
 [submodule ".ai/codex-skills"]
 	path = .ai/codex-skills
 	url = https://github.com/am-will/codex-skills.git
+[submodule ".ai/agent-skills"]
+	path = .ai/agent-skills
+	url = https://github.com/addyosmani/agent-skills.git
+[submodule ".ai/dimillian-skills"]
+	path = .ai/dimillian-skills
+	url = https://github.com/Dimillian/Skills.git
