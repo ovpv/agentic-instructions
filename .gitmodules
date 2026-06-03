@@ -10,3 +10,6 @@
 [submodule ".ai/dimillian-skills"]
 	path = .ai/dimillian-skills
 	url = https://github.com/Dimillian/Skills.git
+[submodule ".ai/awesome-codex-skills"]
+	path = .ai/awesome-codex-skills
+	url = https://github.com/ComposioHQ/awesome-codex-skills.git
