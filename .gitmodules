@@ -1,15 +1,30 @@
 [submodule "openai-skills"]
-	path = .ai/openai-skills
+	path = .agents/openai-skills
 	url = https://github.com/openai/skills.git
 [submodule ".ai/codex-skills"]
-	path = .ai/codex-skills
+	path = .agents/codex-skills
 	url = https://github.com/am-will/codex-skills.git
 [submodule ".ai/agent-skills"]
-	path = .ai/agent-skills
+	path = .agents/agent-skills
 	url = https://github.com/addyosmani/agent-skills.git
 [submodule ".ai/dimillian-skills"]
-	path = .ai/dimillian-skills
+	path = .agents/dimillian-skills
 	url = https://github.com/Dimillian/Skills.git
 [submodule ".ai/awesome-codex-skills"]
-	path = .ai/awesome-codex-skills
+	path = .agents/awesome-codex-skills
 	url = https://github.com/ComposioHQ/awesome-codex-skills.git
+[submodule ".ai/vercel-agent-skills"]
+	path = .agents/vercel-agent-skills
+	url = https://github.com/vercel-labs/agent-skills.git
+[submodule ".ai/mattpocock-skills"]
+	path = .agents/mattpocock-skills
+	url = https://github.com/mattpocock/skills.git
+[submodule ".ai/awesome-claude-code-subagents"]
+	path = .agents/awesome-claude-code-subagents
+	url = https://github.com/VoltAgent/awesome-claude-code-subagents.git
+[submodule ".ai/ui-craft"]
+	path = .agents/ui-craft
+	url = https://github.com/educlopez/ui-craft.git
+[submodule ".ai/jakubkrehel-skills"]
+	path = .agents/jakubkrehel-skills
+	url = https://github.com/jakubkrehel/skills.git
