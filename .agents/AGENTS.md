@@ -130,7 +130,22 @@ when a separate specialist review or bounded implementation is useful.
 
 ### UI and design engineering
 
-For creating or substantially redesigning interfaces, use one UI Craft mode:
+For creating or substantially redesigning web interfaces, use this workflow in
+order. Treat each step as a gate for the next one; do not skip directly to visual
+styling or implementation:
+
+1. Define and validate the UX process with
+   `.agents/bmad-ux/bmad-planning-orchestrator/skills/bmad-ux/SKILL.md`.
+2. Make design-system decisions with
+   `.agents/ui-ux-pro-max/.claude/skills/ui-ux-pro-max/SKILL.md`.
+3. Implement the approved direction with
+   `.agents/frontend-design/skills/frontend-design/SKILL.md`.
+4. Before declaring the interface complete, run the final review gate with
+   `.agents/vercel-agent-skills/skills/web-design-guidelines/SKILL.md` and resolve
+   applicable findings.
+
+Use one UI Craft mode only when the user explicitly requests it or when the
+required workflow above does not cover the target platform:
 
 - General product UI: `.agents/ui-craft/skills/ui-craft/SKILL.md`
 - Restrained/minimal UI: `.agents/ui-craft/skills/ui-craft-minimal/SKILL.md`

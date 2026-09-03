@@ -28,3 +28,12 @@
 [submodule ".ai/jakubkrehel-skills"]
 	path = .agents/jakubkrehel-skills
 	url = https://github.com/jakubkrehel/skills.git
+[submodule ".agents/ui-ux-pro-max"]
+	path = .agents/ui-ux-pro-max
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+[submodule ".agents/bmad-ux"]
+	path = .agents/bmad-ux
+	url = https://github.com/aj-geddes/claude-code-bmad-skills.git
+[submodule ".agents/frontend-design"]
+	path = .agents/frontend-design
+	url = https://github.com/anthropics/skills.git
